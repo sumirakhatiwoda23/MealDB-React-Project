@@ -7,10 +7,6 @@ export default function Notfound() {
 <h1 className="text-xl text-red-700">Page not found </h1>
 <NavLink to={'/'} className={"underline"}>Please go back</NavLink>
 
-
-
-
-
     </div>
   )
 }
